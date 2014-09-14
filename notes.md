@@ -1,5 +1,7 @@
 ### Notes for Fall 2014
+Author: Tawheed Raheem
 
+Date: 9/9/14
 ### Fundamental properties of matter
   - energy
   - charge
@@ -32,10 +34,7 @@ The way we will talk about current is that it moves from the (+) side to the
 ### Battery
 it is a chemical system that seperates charge
 
-# formular
-I * t = Q
-
-## Voltage (V)
+### Voltage (V)
 it is measured in volts, energy per unit charge
 1 Volt = 1 Joule per Coulumb
 V = W/Q
